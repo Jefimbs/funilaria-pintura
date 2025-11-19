@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Funilaria",
+  "description": "Sistema de gestão de funilaria e pintura com acompanhamento de clientes e IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
